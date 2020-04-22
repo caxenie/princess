@@ -1,11 +1,6 @@
-# CBMS 2020 Paper submission
-Code repository for "PRINCESS: Prediction of Individual Breast Cancer Evolution to Surgical Size"  by Cristian Axenie and Daria Kurz submitted at IEEE CBMS 2020, Mayo Clinic, Rochester, USA, July 28 - 30, 2020.
+# PRINCESS: Prediction of Individual Breast Cancer Evolution to Surgical Size
 
-## Abstract
-Modelling surgical size is not inherently meant to replicate the tumor's exact form and proportions, but instead to elucidate the degree of the tissue volume that may be surgically removed in terms of improving patient survival and minimize the risk that a second or third operation will be needed to eliminate all malignant cells entirely. Given the broad range of models of tumor growth, there is no specific rule of thumb about how to select the most suitable model for a particular breast cancer type and whether that would influence its subsequent application in surgery planning. Typically, these models require tumor biology-dependent parametrization, which hardly generalizes to cope with ttumor heterogeneity. In addition, the datasets are limited in size owing to the restricted or expensive methods of measurement. We address the shortcomings that incomplete biological specifications, the variety of tumor types and the limited size of the data bring to existing mechanistic tumor growth models and introduce a Machine Learning model for the PRediction of INdividual breast Cancer Evolution to Surgical Size (PRINCESS). This is a data-driven model based on neural networks capable of unsupervised learning of cancer growth curves. PRINCESS learns the temporal evolution of the tumor along with the underlying distribution of the measurement space. We demonstrate the superior accuracy of PRINCESS, against four typically used tumor growth models, in extracting tumor growth curves from a set of nine clinical breast cancer datasets. Our experiments show that, without any modification, PRINCESS can learn the underlying growth curves being versatile between breast cancer types.
-
-### PRINCESS: Prediction of Individual Breast Cancer Evolution to Surgical Size
-
+*Code repository for "PRINCESS: Prediction of Individual Breast Cancer Evolution to Surgical Size"  by Cristian Axenie and Daria Kurz submitted at IEEE CBMS 2020, Mayo Clinic, Rochester, USA, July 28 - 30, 2020.*
 
 PRINCESS Codebase:
 
