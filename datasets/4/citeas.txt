@@ -1,0 +1,1 @@
+Benzekry, Sebastien, Lamont, Clare, Weremowicz, Janusz, Beheshti, Afshin, Hlatky, Lynn, & Hahnfeldt, Philip. (2019). Tumor growth kinetics of subcutaneously implanted Lewis Lung carcinoma cells [Data set]. PLoS Computational Biology. Zenodo. http://doi.org/10.5281/zenodo.3572401
